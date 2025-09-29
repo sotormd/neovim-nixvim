@@ -2,6 +2,22 @@
 
 Neovim configuration flake (ft. nixvim).
 
+[Screenshot](./screenshots/neovim.png)
+
+# Features
+
+|                            |                                          |
+|----------------------------|------------------------------------------|
+| Highlights                 | `treesitter`                             |
+| Buffers                    | `bufferline`                             |
+| Explorer                   | `nvim-tree`                              |
+| Find                       | `telescope`                              |
+| Icons                      | `web-devicons`                           |
+| Colorscheme                | `nord`                                   |
+| LSP                        | `nixd` `pyright` `rust-analyzer`         |
+| Formatting                 | `nixfmt` `black` `isort` `rustfmt`       |
+| Completions                | `nvim-cmp`                               |
+
 # Usage
 
 ```

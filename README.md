@@ -2,7 +2,7 @@
 
 Neovim configuration flake (ft. nixvim).
 
-[Screenshot](./screenshots/neovim.png)
+![Screenshot](./screenshots/neovim.png)
 
 # Features
 

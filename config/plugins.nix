@@ -77,7 +77,11 @@
       rust_analyzer = {
         installRustc = false;
         installCargo = false;
+	installRustfmt = true;
       };
+
+      # go
+      gopls.enable = true;
     };
   };
 

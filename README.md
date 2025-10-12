@@ -19,7 +19,7 @@ Neovim configuration flake (ft. nixvim).
 
 # Usage
 
-```bash
+```console
 $ nix run github:sotormd/neovim
 ```
 

@@ -23,6 +23,9 @@ Neovim configuration flake (ft. nixvim).
 $ nix run github:sotormd/neovim
 ```
 
-For use in another flake, add `neovim.url = "github:sotormd/neovim";` to your inputs.
+For use in another flake, add this to your inputs:
+- `neovim.url = "github:sotormd/neovim";`
 
-This provides `neovim.packages.x86_64-linux.default` and `neovim.packages.aarch64-linux.default`.
+This provides the following packages:
+- `neovim.packages.x86_64-linux.default`
+- `neovim.packages.aarch64-linux.default`

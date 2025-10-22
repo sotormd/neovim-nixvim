@@ -77,11 +77,14 @@
       rust_analyzer = {
         installRustc = false;
         installCargo = false;
-	installRustfmt = true;
+        installRustfmt = true;
       };
 
       # go
       gopls.enable = true;
+
+      # haskell
+      hls.enable = true;
     };
   };
 

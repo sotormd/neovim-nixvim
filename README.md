@@ -14,7 +14,7 @@ Neovim configuration flake (ft. nixvim).
 | Find                       | `telescope`                              |
 | Icons                      | `web-devicons`                           |
 | Colorscheme                | `nord`                                   |
-| Languages                  | `nix` `python` `rust` `go`               |
+| Languages                  | `nix` `python` `rust` `go` `haskell`     |
 | Completions                | `nvim-cmp`                               |
 
 # Usage

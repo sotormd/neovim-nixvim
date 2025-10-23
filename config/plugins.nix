@@ -85,6 +85,7 @@
 
       # haskell
       hls.enable = true;
+      hls.installGhc = false;
     };
   };
 

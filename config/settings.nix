@@ -11,6 +11,13 @@
     cursorline = true;
     laststatus = 3;
     showmode = false;
+    expandtab = true;
+    tabstop = 4;
+    shiftwidth = 4;
+    softtabstop = 4;
+    wrap = false;
+    swapfile = false;
+    undofile = true;
   };
 
   extraConfigLua = ''

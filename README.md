@@ -1,5 +1,7 @@
 # Neovim Configuration Flake
 
+![Archived](https://img.shields.io/badge/status-archived-red)
+
 Neovim configuration flake (ft. nixvim).
 
 See newer nvf configuration [here](https://github.com/sotormd/neovim).

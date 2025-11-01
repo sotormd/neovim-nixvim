@@ -20,11 +20,11 @@ Neovim configuration flake (ft. nixvim).
 # Usage
 
 ```console
-$ nix run github:sotormd/neovim
+$ nix run github:sotormd/neovim-nixvim
 ```
 
 For use in another flake, add this to your inputs:
-- `neovim.url = "github:sotormd/neovim";`
+- `neovim.url = "github:sotormd/neovim-nixvim";`
 
 This provides the following packages:
 - `neovim.packages.x86_64-linux.default`

@@ -2,6 +2,8 @@
 
 Neovim configuration flake (ft. nixvim).
 
+See newer nvf configuration [here](https://github.com/sotormd/neovim).
+
 ![Screenshot](./screenshots/neovim.png)
 
 # Features
